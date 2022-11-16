@@ -9,11 +9,13 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - SWI Prolog <img src="https://user-images.githubusercontent.com/118231381/202056575-4d804ee4-969d-472d-ba15-431fa22955f7.png" height=50>
 - C++ <img src="https://user-images.githubusercontent.com/118231381/202056618-3a9069a2-b1a6-4ec8-939b-fe22dd10283d.png" height=50>
 - JavaScript <img src="https://user-images.githubusercontent.com/118231381/202056635-2559e472-abfa-4ed3-a076-a1c4f63fee3f.png" height=50>
+- CSS <img src="https://user-images.githubusercontent.com/118231381/202217336-91506680-7222-48ba-b97e-32257c53dca1.png" height=50>
 - HTML <img src="https://user-images.githubusercontent.com/118231381/202056688-dcbcbf22-6073-4cc5-ae4f-6c47645f5ee8.png" height=50>
 
 
 ## Familiar tools
 - Amazon Web Services
+- Docker
 - Open Liberty
 - MongoDB
 
