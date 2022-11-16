@@ -12,6 +12,12 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - HTML <img src="https://user-images.githubusercontent.com/118231381/202056688-dcbcbf22-6073-4cc5-ae4f-6c47645f5ee8.png" height=50>
 
 
+## Familiar tools
+- Amazon Web Services
+- Open Liberty
+- MongoDB
+
+
 ## Relevant Coursework Taken
 - CSC 212 Principles of Programming
 - CSC 221 Foundation of Computer Science
