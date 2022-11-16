@@ -12,8 +12,22 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - HTML <img src="https://user-images.githubusercontent.com/118231381/202056688-dcbcbf22-6073-4cc5-ae4f-6c47645f5ee8.png" height=50>
 
 
-## Relevant Course Taken
-- 
+## Relevant Coursework Taken
+- CSC 212 Principles of Programming
+- CSC 221 Foundation of Computer Science
+- CSC 241 Abstract Data Types & Programming Methods
+- CSC 322 Systems Programming
+- CSC 333 Privacy/Security/Cryptology
+- CSC 344 Programming Languages
+- CSC 365 Data Structures & Algorithms
+- CSC 366 Computational Models of Cognitive Processes
+- CSC 375 Parallel Programming
+- CSC 380 Software Engineering
+- CSC 416 Artifical Intelligence Programming Languages
+- CSC 454 System Simulation / Virtual World
+- CSC 473 Internet of Things / Sensors
+- CSC 482 Software Deployment
+
 <!---
 - 👋 Hi, I’m @KunchengFeng
 - 👀 I’m interested in ...
