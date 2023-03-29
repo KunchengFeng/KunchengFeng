@@ -35,13 +35,13 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - CSC 365 Data Structures & Algorithms
 - CSC 366 Computational Models of Cognitive Processes
 - CSC 375 Parallel Programming
-- CSC 380 Software Engineering
-- CSC 416 Artifical Intelligence Programming Languages
+- CSC 380 Software Engineering <a href="https://github.com/johnsonwu367/CSC380-EJar">(repository)</a> (Contributed with secondary account)
+- CSC 416 Artifical Intelligence Programming Languages <a href="http://cs.oswego.edu/~kfeng2/CSC%20416/CSC_416_Worksite.html">(worksite)</a>
 - CSC 435 Web Services
 - CSC 454 System Simulation / Virtual World
-- CSC 466 Artifl Intelligence & Heuristic
+- CSC 466 Artifl Intelligence & Heuristic <a href="http://cs.oswego.edu/~kfeng2/CSC466/">(worksite)</a>
 - CSC 473 Internet of Things / Sensors
-- CSC 482 Software Deployment
+- CSC 482 Software Deployment :- <a href="https://github.com/KunchengFeng2/kfeng2-server">Server</a> | <a href="https://github.com/KunchengFeng2/kfeng2-agent">Agent</a>
 
 <!---
 - 👋 Hi, I’m @KunchengFeng
