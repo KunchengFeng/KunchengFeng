@@ -11,6 +11,8 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - JavaScript <img src="https://user-images.githubusercontent.com/118231381/202056635-2559e472-abfa-4ed3-a076-a1c4f63fee3f.png" height=50>
 - CSS <img src="https://user-images.githubusercontent.com/118231381/202217336-91506680-7222-48ba-b97e-32257c53dca1.png" height=50>
 - HTML <img src="https://user-images.githubusercontent.com/118231381/202056688-dcbcbf22-6073-4cc5-ae4f-6c47645f5ee8.png" height=50>
+- English
+- Mandarin Chinese
 
 
 ## Familiar tools
@@ -18,6 +20,8 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - Docker
 - Open Liberty
 - MongoDB
+- Apache Tomcat
+- Spark
 
 
 ## Relevant Coursework Taken
@@ -25,6 +29,7 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - CSC 221 Foundation of Computer Science
 - CSC 241 Abstract Data Types & Programming Methods
 - CSC 322 Systems Programming
+- ISC 330 Telecommunications
 - CSC 333 Privacy/Security/Cryptology
 - CSC 344 Programming Languages
 - CSC 365 Data Structures & Algorithms
@@ -32,7 +37,9 @@ I'm Kuncheng, currently a senior year student pursuing a Computer Science degree
 - CSC 375 Parallel Programming
 - CSC 380 Software Engineering
 - CSC 416 Artifical Intelligence Programming Languages
+- CSC 435 Web Services
 - CSC 454 System Simulation / Virtual World
+- CSC 466 Artifl Intelligence & Heuristic
 - CSC 473 Internet of Things / Sensors
 - CSC 482 Software Deployment
 
